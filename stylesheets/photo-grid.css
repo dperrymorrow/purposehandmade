@@ -1,4 +1,4 @@
-/* line 10, /Users/dperrymorrow/purposehandmade/source/stylesheets/photo-grid.scss */
+/* line 10, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
 .photo-grid {
   -webkit-column-gap: 10px;
   -moz-column-gap: 10px;
@@ -7,27 +7,27 @@
   -moz-column-fill: balance;
   column-fill: balance;
   margin-bottom: 25px; }
-  /* line 19, /Users/dperrymorrow/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 19, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.product-grid {
     -webkit-column-gap: 25px;
     -moz-column-gap: 25px;
     column-gap: 25px; }
-  /* line 25, /Users/dperrymorrow/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 25, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-4 {
     -webkit-column-count: 4;
     -moz-column-count: 4;
     column-count: 4; }
-  /* line 29, /Users/dperrymorrow/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 29, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-3 {
     -webkit-column-count: 3;
     -moz-column-count: 3;
     column-count: 3; }
-  /* line 33, /Users/dperrymorrow/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 33, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-2 {
     -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2; }
-  /* line 37, /Users/dperrymorrow/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 37, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid img, .photo-grid .item {
     display: inline-block;
     background-color: #fff;
@@ -37,37 +37,37 @@
     column-break-inside: avoid; }
 
 @media (max-width: 990px) {
-  /* line 51, /Users/dperrymorrow/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 51, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-4 {
     -webkit-column-count: 3;
     -moz-column-count: 3;
     column-count: 3; }
 
-  /* line 52, /Users/dperrymorrow/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 52, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-3 {
     -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2; }
 
-  /* line 53, /Users/dperrymorrow/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 53, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-2 {
     -webkit-column-count: 1;
     -moz-column-count: 1;
     column-count: 1; } }
 @media (max-width: 700px) {
-  /* line 57, /Users/dperrymorrow/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 57, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-4 {
     -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2; }
 
-  /* line 58, /Users/dperrymorrow/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 58, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-3 {
     -webkit-column-count: 1;
     -moz-column-count: 1;
     column-count: 1; }
 
-  /* line 59, /Users/dperrymorrow/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 59, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-2 {
     -webkit-column-count: 1;
     -moz-column-count: 1;
