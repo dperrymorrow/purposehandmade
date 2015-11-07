@@ -33,12 +33,19 @@
 ###
 
 # Automatic image dimensions on image_tag helper
-# activate :automatic_image_sizes
+activate :automatic_image_sizes
+activate :sprockets
 
 # Reload the browser automatically whenever files change
-# configure :development do
-#   activate :livereload
-# end
+configure :development do
+  activate :livereload
+end
+
+helpers do
+  def nav_active(path)
+    current_page.path == path ? {:class => "active"} : {}
+  end
+end
 
 # Methods defined in the helpers block are available in templates
 # helpers do
@@ -48,10 +55,11 @@
 # end
 
 set :css_dir, 'stylesheets'
-
 set :js_dir, 'javascripts'
-
 set :images_dir, 'images'
+
+
+sprockets.append_path File.join "#{root}", "bower_components"
 
 # Build-specific configuration
 configure :build do

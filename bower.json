@@ -1,0 +1,24 @@
+{
+  "name": "purposehandmade",
+  "description": "website for purpose handmade leather goods",
+  "main": "build/index.html",
+  "authors": [
+    "David Morrow"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dperrymorrow/purposehandmade",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "featherlight": "~1.3.4",
+    "animate.css": "~3.4.0"
+  }
+}

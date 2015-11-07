@@ -1,0 +1,111 @@
+//= require animate.css/animate.css
+//= require featherlight/release/featherlight.min.css
+//= require featherlight/release/featherlight.gallery.min.css
+@charset "utf-8";
+@import 'bootstrap';
+@import 'variables.scss';
+@import 'photo-grid.scss';
+
+
+body {
+  font-family: "Raleway", Helvetica, Sans-serif;
+  background-color: white;
+  color: $dark-grey;
+}
+
+.sidebar {
+  padding: 0px 0px $padding 0px;
+
+  .logo, .nav {
+    margin-right: -15px;
+  }
+
+  .logo {
+    border: 4px solid $light-grey;
+    display: block;
+    margin: $padding;
+    margin-right: $padding - 15px;
+  }
+
+  .nav {
+    a {
+      text-align: right;
+      color: $dark-grey;
+      font-size: 14px;
+      font-weight: 300;
+      padding-right: $padding;
+    }
+
+    .active a {
+      border-radius: 0px;
+      color: $dark-grey;
+      background-color: $light-grey;
+      font-weight: 900;
+
+      &:hover {
+        background-color: darken($light-grey, 10%);
+        color: $dark-grey;
+      }
+    }
+  }
+}
+
+.main-content {
+  padding: $padding $padding*2;
+  border-left: 1px solid $light-grey;
+
+  p {
+    text-align: justify;
+    color: $medium-grey;
+
+    &.lead {
+      border-top: 1px solid $light-grey;
+      margin: $padding 0;
+      padding-top: $padding;
+    }
+  }
+
+  h1 {
+    font-weight: 900;
+    font-size: 48px;
+  }
+}
+
+
+.product-grid {
+  .product {
+    margin-bottom: $padding;
+  }
+}
+
+
+@media (max-width: 990px) {
+
+  .main-content {
+    border: none;
+    padding: 10px;
+
+    p {
+      text-align: left;
+    }
+  }
+
+  .sidebar {
+    text-align: center;
+    
+    .logo {
+      display: inline-block;
+      margin: $padding;
+
+      img {
+        max-height: 150px;
+        width: auto;
+      }
+    } 
+
+    .nav a {
+      text-align: center;
+    }
+    height: auto;
+  }
+}
