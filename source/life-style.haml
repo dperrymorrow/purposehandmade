@@ -12,8 +12,7 @@ title: Life Style
 .photo-grid.col-2.product-grid
   - data.products.lifestyle.each do |product|
     .item.product
-      %a.gallery{href: url_for(product[:image])}
-        = image_tag product[:image], class: 'img-responsive'  
+      = image_tag product[:image], class: 'img-responsive gallery'  
 
       %h4= product[:title]
       %p= product[:description]

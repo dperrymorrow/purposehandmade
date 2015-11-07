@@ -10,6 +10,7 @@ $('.gallery').featherlightGallery({
 		fadeIn: 300,
 		fadeOut: 300
 	},
+	targetAttr: 'src',
 	openSpeed:    300,
 	closeSpeed:   300
 });

@@ -12,8 +12,7 @@ title: Home Goods
 .photo-grid.col-2.product-grid
   - data.products.homegoods.each do |product|
     .item.product
-      %a.gallery{href: url_for(product[:image])}
-        = image_tag product[:image], class: 'img-responsive'  
+      = image_tag product[:image], class: 'gallery img-responsive'  
 
       %h4= product[:title]
       %p= product[:description]
