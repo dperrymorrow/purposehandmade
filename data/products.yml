@@ -2,38 +2,39 @@ lifestyle:
 
   -
     image: books.jpg
-    title: Leather Bound Moleskin Books
+    title: Leather Moleskin Notebooks
     description: 
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
-      labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      Natural or dyed vegetable tanned leather debossed with original woodblock carvings. Refillable cover to fit 
+      Moleskin or similar sized notebooks.
 
   -
     image: wallet_pulltab.jpg
     title: Pull Tab Wallets
     description: 
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
-      labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      Hand stitched leather wallet with easy access to cards using the pull tab feature. Designed to fit 3-4 of 
+      your most important cards. Perfect for Chip Card users.
 
 
 homegoods: 
   -
     image: ball-jar.jpg
-    title: Ball Jar Wrappers
+    title: Leather Ball Jar Wrap
     description: 
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
-      labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      Handstitched leather wrap warms your hand while protecting you from hot temperatures. Use the 24oz. size for 
+      beer or water. Use the 16oz. for coffee or tea. Use the 8oz. size for whiskey or espresso.
+ 
   -
     image: boxes.jpg
     title: Reclaimed Cedar Boxes
     description: 
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
-      labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      Storage box with handstitched leather handles and copper nails.
   -
     image: hanging-planters.jpg
-    title: Hanging Air Planters
+    title: Hanging Leather Pot
     description: 
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
-      labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      Handstitched and stretched vegetable tanned leather. Debossed leather with original woodblock carvings.
+      Hang air plants, herbs, or dried flowers.
+    
   -
     image: planters.jpg
     title: Leather Plant Containers
