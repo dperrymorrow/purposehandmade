@@ -10624,70 +10624,68 @@ body {
     margin-right: -15px; }
   /* line 23, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
   .sidebar .logo {
-    border: 4px solid #efefef;
-    display: block;
-    margin: 25px;
-    margin-right: 10px; }
-  /* line 31, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+    margin: 40px 0;
+    display: block; }
+  /* line 30, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
   .sidebar .nav a {
     text-align: right;
     color: #666;
     font-size: 14px;
     font-weight: 300;
     padding-right: 25px; }
-  /* line 39, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+  /* line 38, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
   .sidebar .nav .active a {
     border-radius: 0px;
     color: #666;
     background-color: #efefef;
     font-weight: 900; }
-    /* line 45, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+    /* line 44, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
     .sidebar .nav .active a:hover {
       background-color: #d6d6d6;
       color: #666; }
 
-/* line 53, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+/* line 52, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
 .main-content {
   padding: 25px 50px;
   border-left: 1px solid #efefef; }
-  /* line 57, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+  /* line 56, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
   .main-content p {
     text-align: justify;
     color: #999; }
-    /* line 61, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+    /* line 60, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
     .main-content p.lead {
       margin: 25px 0;
       font-weight: 100; }
-  /* line 69, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+  /* line 68, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
   .main-content h1 {
     font-weight: 100;
     font-size: 48px; }
 
-/* line 77, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+/* line 76, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
 .product-grid .product {
   margin-bottom: 25px; }
 
 @media (max-width: 990px) {
-  /* line 85, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+  /* line 84, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
   .main-content {
     border: none;
     padding: 10px; }
-    /* line 89, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+    /* line 88, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
     .main-content p {
       text-align: left; }
 
-  /* line 94, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+  /* line 93, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
   .sidebar {
     text-align: center;
     height: auto; }
-    /* line 97, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+    /* line 96, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
     .sidebar .logo {
       display: inline-block;
       margin: 25px; }
-      /* line 101, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+      /* line 100, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
       .sidebar .logo img {
         max-height: 150px;
         width: auto; }
-    /* line 107, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+    /* line 106, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
     .sidebar .nav a {
       text-align: center; } }
