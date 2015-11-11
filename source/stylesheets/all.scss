@@ -21,10 +21,9 @@ body {
   }
 
   .logo {
-    border: 4px solid $light-grey;
+    // border: 4px solid $light-grey;
+    margin: 40px 0;
     display: block;
-    margin: $padding;
-    margin-right: $padding - 15px;
   }
 
   .nav {

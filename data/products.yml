@@ -1,5 +1,4 @@
 lifestyle:
-
   -
     image: books.jpg
     title: Leather Moleskin Notebooks
@@ -14,7 +13,6 @@ lifestyle:
       Hand stitched leather wallet with easy access to cards using the pull tab feature. Designed to fit 3-4 of 
       your most important cards. Perfect for Chip Card users.
 
-
 homegoods: 
   -
     image: ball-jar.jpg
@@ -22,7 +20,6 @@ homegoods:
     description: 
       Handstitched leather wrap warms your hand while protecting you from hot temperatures. Use the 24oz. size for 
       beer or water. Use the 16oz. for coffee or tea. Use the 8oz. size for whiskey or espresso.
- 
   -
     image: boxes.jpg
     title: Reclaimed Cedar Boxes
@@ -34,7 +31,6 @@ homegoods:
     description: 
       Handstitched and stretched vegetable tanned leather. Debossed leather with original woodblock carvings.
       Hang air plants, herbs, or dried flowers.
-    
   -
     image: planters.jpg
     title: Leather Plant Containers

@@ -19,7 +19,7 @@
             = image_tag 'logo.jpg', class: 'img-responsive'
 
           .nav.nav-pills.nav-stacked
-            - data.pages.keys.each do |item|
+            - data.nav.each do |item|
               %li{nav_active(item.link)}= link_to item.label, item.link
 
         .col-md-8
