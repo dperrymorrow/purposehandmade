@@ -13,61 +13,94 @@ body {
   color: $dark-grey;
 }
 
+a {
+  color: $purple;
+  font-weight: 700;
+
+  &:hover {
+    color: $purple;
+  }
+}
+
 .sidebar {
   padding: 0px 0px $padding 0px;
 
-  .logo, .nav {
+  .nav {
     margin-right: -15px;
   }
 
-  .logo {
-    // border: 4px solid $light-grey;
-    margin: 40px 0;
-    display: block;
-  }
+  // .logo {
+  //   // border: 4px solid $light-grey;
+  //   margin: 40px 0;
+  //   display: block;
+  // }
 
   .nav {
+    margin-top: 175px;
+
     a {
       text-align: right;
-      color: $dark-grey;
+      color: $purple;
       font-size: 14px;
       font-weight: 300;
       padding-right: $padding;
+      border-radius: 0px;
+
+      &:hover {
+        background-color: lighten($purple, 45%) !important;
+        color: white !important;
+      }
     }
 
     .active a {
       border-radius: 0px;
-      color: $dark-grey;
-      background-color: $light-grey;
+      color: $purple;
+      background-color: lighten($purple, 55%);
       font-weight: 900;
-
-      &:hover {
-        background-color: darken($light-grey, 10%);
-        color: $dark-grey;
-      }
+      color: white;
+      
     }
   }
+}
+
+strong {
+  font-weight: 700;
 }
 
 .main-content {
   padding: $padding $padding*2;
   border-left: 1px solid $light-grey;
 
+  .logo-container {
+    text-align: center;
+    display: block;
+
+    img {
+      display: inline-block;
+    }
+  }
+
   p {
-    text-align: justify;
+    // text-align: justify;
+    font-size: 16px;
     color: $medium-grey;
 
     &.lead {
       // border-top: 1px solid $light-grey;
+      font-size: 24px;
       margin: $padding 0;
       font-weight: 100;
+      text-align: center;
       // padding-top: $padding;
     }
   }
 
   h1 {
+    text-align: center;
+    color: $purple;
     font-weight: 100;
-    font-size: 48px;
+    font-size: 36px;
+    // margin-top: 0px;
   }
 }
 
@@ -103,9 +136,13 @@ body {
       }
     } 
 
-    .nav a {
-      text-align: center;
+    .nav {
+      margin-top: 0px;
+
+      a {
+        text-align: center;
+        height: auto;
+      }
     }
-    height: auto;
   }
 }

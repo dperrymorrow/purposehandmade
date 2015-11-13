@@ -7,13 +7,34 @@ lifestyle:
       Moleskin or similar sized notebooks.
 
   -
+    image: moleskin_journals.jpg
+    title: Leather Moleskin Notebooks (Dyed)
+    description: 
+      Natural or dyed vegetable tanned leather debossed with original woodblock carvings. Refillable cover to fit 
+      Moleskin or similar sized notebooks.
+
+  -
+    image: bracelet.jpg
+    title: Leather Debossed Bracelet
+    description: 
+      Hand dyed leather cuff bracelet with a two snap closure. The leather has been debossed with original woodblock carvings.
+
+  -
+    image: headphone_cannoli.jpg
+    title: Headphone Cannoli Holder
+    description: 
+      Keep your headphones organized with this simple Cannoli holder.
+
+  -
     image: wallet_pulltab.jpg
     title: Pull Tab Wallets
     description: 
       Hand stitched leather wallet with easy access to cards using the pull tab feature. Designed to fit 3-4 of 
       your most important cards. Perfect for Chip Card users.
 
+
 homegoods: 
+
   -
     image: ball-jar.jpg
     title: Leather Ball Jar Wrap
@@ -32,23 +53,34 @@ homegoods:
       Handstitched and stretched vegetable tanned leather. Debossed leather with original woodblock carvings.
       Hang air plants, herbs, or dried flowers.
   -
+    image: small-planter.jpg
+    title: Leather Planters 
+    description: 
+      Leather planters with dyed edges and contrast thread. This design fits a sedum in a 4oz. Ball jar or use it as a catch-all.
+
+  -
     image: planters.jpg
     title: Leather Plant Containers
     description: 
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
-      labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      "Handmade leather planters, vases, and catch-alls. The large size fits a 6” plant. The medium size fits a quart size ball jar to be used as a vase or catch-all. The small size fits an 8oz. ball jar for a catch-all or sedum planter."
 
   -
-    image: small_catchall.jpg
-    title: Small Catch All
+    image: leather_pouch.jpg
+    title: Debossed Leather Pouch
     description: 
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
-      labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      Handstitched, printed, and debossed leather pouch has many uses. Put your dried herbs, bills, or pens and pencils in it
 
-  -
-    image: medium_catchall.jpg
-    title: Medium Catch All
-    description: 
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
-      labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  # -
+  #   image: small_catchall.jpg
+  #   title: Small Catch All
+  #   description: 
+  #     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
+  #     labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+  # -
+  #   image: medium_catchall.jpg
+  #   title: Medium Catch All
+  #   description: 
+  #     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
+  #     labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
