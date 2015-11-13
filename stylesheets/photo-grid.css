@@ -28,6 +28,9 @@
     -moz-column-count: 2;
     column-count: 2; }
   /* line 37, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
+  .photo-grid img {
+    border: 1px solid #d9d9d9; }
+  /* line 41, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid img, .photo-grid .item {
     display: inline-block;
     background-color: #fff;
@@ -38,37 +41,37 @@
     max-width: 100%; }
 
 @media (max-width: 990px) {
-  /* line 52, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 56, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-4 {
     -webkit-column-count: 3;
     -moz-column-count: 3;
     column-count: 3; }
 
-  /* line 53, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 57, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-3 {
     -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2; }
 
-  /* line 54, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 58, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-2 {
     -webkit-column-count: 1;
     -moz-column-count: 1;
     column-count: 1; } }
 @media (max-width: 700px) {
-  /* line 58, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 62, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-4 {
     -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2; }
 
-  /* line 59, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 63, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-3 {
     -webkit-column-count: 1;
     -moz-column-count: 1;
     column-count: 1; }
 
-  /* line 60, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 64, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-2 {
     -webkit-column-count: 1;
     -moz-column-count: 1;

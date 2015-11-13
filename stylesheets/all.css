@@ -10565,6 +10565,9 @@ button.close {
     -moz-column-count: 2;
     column-count: 2; }
   /* line 37, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
+  .photo-grid img {
+    border: 1px solid #d9d9d9; }
+  /* line 41, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid img, .photo-grid .item {
     display: inline-block;
     background-color: #fff;
@@ -10575,37 +10578,37 @@ button.close {
     max-width: 100%; }
 
 @media (max-width: 990px) {
-  /* line 52, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 56, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-4 {
     -webkit-column-count: 3;
     -moz-column-count: 3;
     column-count: 3; }
 
-  /* line 53, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 57, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-3 {
     -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2; }
 
-  /* line 54, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 58, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-2 {
     -webkit-column-count: 1;
     -moz-column-count: 1;
     column-count: 1; } }
 @media (max-width: 700px) {
-  /* line 58, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 62, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-4 {
     -webkit-column-count: 2;
     -moz-column-count: 2;
     column-count: 2; }
 
-  /* line 59, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 63, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-3 {
     -webkit-column-count: 1;
     -moz-column-count: 1;
     column-count: 1; }
 
-  /* line 60, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
+  /* line 64, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/photo-grid.scss */
   .photo-grid.col-2 {
     -webkit-column-count: 1;
     -moz-column-count: 1;
@@ -10617,75 +10620,102 @@ body {
   color: #666; }
 
 /* line 16, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+a {
+  color: #523c4b;
+  font-weight: 700; }
+  /* line 20, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+  a:hover {
+    color: #523c4b; }
+
+/* line 25, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
 .sidebar {
   padding: 0px 0px 25px 0px; }
-  /* line 19, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
-  .sidebar .logo, .sidebar .nav {
+  /* line 28, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+  .sidebar .nav {
     margin-right: -15px; }
-  /* line 23, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
-  .sidebar .logo {
-    margin: 40px 0;
-    display: block; }
-  /* line 30, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
-  .sidebar .nav a {
-    text-align: right;
-    color: #666;
-    font-size: 14px;
-    font-weight: 300;
-    padding-right: 25px; }
   /* line 38, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
-  .sidebar .nav .active a {
-    border-radius: 0px;
-    color: #666;
-    background-color: #efefef;
-    font-weight: 900; }
-    /* line 44, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
-    .sidebar .nav .active a:hover {
-      background-color: #d6d6d6;
-      color: #666; }
+  .sidebar .nav {
+    margin-top: 175px; }
+    /* line 41, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+    .sidebar .nav a {
+      text-align: right;
+      color: #523c4b;
+      font-size: 14px;
+      font-weight: 300;
+      padding-right: 25px;
+      border-radius: 0px; }
+      /* line 49, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+      .sidebar .nav a:hover {
+        background-color: #c4afbe !important;
+        color: white !important; }
+    /* line 55, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+    .sidebar .nav .active a {
+      border-radius: 0px;
+      color: #523c4b;
+      background-color: #daccd6;
+      font-weight: 900;
+      color: white; }
 
-/* line 52, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+/* line 66, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+strong {
+  font-weight: 700; }
+
+/* line 70, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
 .main-content {
   padding: 25px 50px;
   border-left: 1px solid #efefef; }
-  /* line 56, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+  /* line 74, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+  .main-content .logo-container {
+    text-align: center;
+    display: block; }
+    /* line 78, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+    .main-content .logo-container img {
+      display: inline-block; }
+  /* line 83, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
   .main-content p {
-    text-align: justify;
+    font-size: 16px;
     color: #999; }
-    /* line 60, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+    /* line 88, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
     .main-content p.lead {
+      font-size: 24px;
       margin: 25px 0;
-      font-weight: 100; }
-  /* line 68, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+      font-weight: 100;
+      text-align: center; }
+  /* line 98, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
   .main-content h1 {
+    text-align: center;
+    color: #523c4b;
     font-weight: 100;
-    font-size: 48px; }
+    font-size: 36px; }
 
-/* line 76, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+/* line 109, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
 .product-grid .product {
   margin-bottom: 25px; }
 
 @media (max-width: 990px) {
-  /* line 84, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+  /* line 117, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
   .main-content {
     border: none;
     padding: 10px; }
-    /* line 88, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+    /* line 121, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
     .main-content p {
       text-align: left; }
 
-  /* line 93, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+  /* line 126, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
   .sidebar {
-    text-align: center;
-    height: auto; }
-    /* line 96, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+    text-align: center; }
+    /* line 129, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
     .sidebar .logo {
       display: inline-block;
       margin: 25px; }
-      /* line 100, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+      /* line 133, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
       .sidebar .logo img {
         max-height: 150px;
         width: auto; }
-    /* line 106, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
-    .sidebar .nav a {
-      text-align: center; } }
+    /* line 139, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+    .sidebar .nav {
+      margin-top: 0px; }
+      /* line 142, /Users/dperrymorrow/builds/purposehandmade/source/stylesheets/all.scss */
+      .sidebar .nav a {
+        text-align: center;
+        height: auto; } }
