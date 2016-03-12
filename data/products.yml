@@ -3,14 +3,14 @@ lifestyle:
     image: books.jpg
     title: Leather Moleskin Notebooks
     description: 
-      Natural or dyed vegetable tanned leather debossed with original woodblock carvings. Refillable cover to fit 
+      Natural or hand-dyed vegetable tanned leather debossed with original woodblock carvings. Refillable cover to fit 
       Moleskin or similar sized notebooks.
 
   -
     image: moleskin_journals.jpg
     title: Leather Moleskin Notebooks (Dyed)
     description: 
-      Natural or dyed vegetable tanned leather debossed with original woodblock carvings. Refillable cover to fit 
+      Natural or hand-dyed vegetable tanned leather debossed with original woodblock carvings. Refillable cover to fit 
       Moleskin or similar sized notebooks.
 
   -
@@ -34,12 +34,15 @@ lifestyle:
 
 
 homegoods: 
-
+  -
+    image: beetle.jpg
+    title: Leather Debossed Woodblock Carvings
+    description: Hand-dyed vegetable tanned leather debossed with original woodblock carvings. Nailed to reclaimed wood with copper nails. 7" X 7"
   -
     image: ball-jar.jpg
     title: Leather Ball Jar Wrap
     description: 
-      Handstitched leather wrap warms your hand while protecting you from hot temperatures. Use the 24oz. size for 
+      Handstitched leather wrap warms your hand while protecting you from hot temperatures. Use the 24oz. size for
       beer or water. Use the 16oz. for coffee or tea. Use the 8oz. size for whiskey or espresso.
   -
     image: boxes.jpg
