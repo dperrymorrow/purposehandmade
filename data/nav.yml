@@ -7,9 +7,9 @@
 -
   label: Life Style
   link: life-style.html
--
-  label: Classes
-  link: classes.html
+# -
+#   label: Classes
+#   link: classes.html
 -
   label: About
   link: about.html
