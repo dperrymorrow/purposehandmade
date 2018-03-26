@@ -22,6 +22,10 @@ a {
   }
 }
 
+.work-shop {
+  margin-bottom: 40px;
+}
+
 .sidebar {
   padding: 0px 0px $padding 0px;
 
@@ -58,7 +62,7 @@ a {
       background-color: lighten($purple, 55%);
       font-weight: 900;
       color: white;
-      
+
     }
   }
 }
@@ -125,7 +129,7 @@ strong {
 
   .sidebar {
     text-align: center;
-    
+
     .logo {
       display: inline-block;
       margin: $padding;
@@ -134,7 +138,7 @@ strong {
         max-height: 150px;
         width: auto;
       }
-    } 
+    }
 
     .nav {
       margin-top: 0px;
