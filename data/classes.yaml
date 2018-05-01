@@ -1,0 +1,142 @@
+
+-
+  title: Woodblock Carving
+  active: false
+  description:
+    In this hands on workshop by Purpose, you will learn how to carve a woodblock,
+    deboss leather in a book press, and turn your creation into a piece of wall art.
+    First, you will learn how to carve your own woodblock design. At a later date,
+    to be determined in class, you will learn how to dye your leather.
+    Then, you will attach it to wood with copper nails to make a piece of art.
+  images:
+    - wood-carving.jpg
+    - wood-blocks.jpg
+  price: 60
+  bookings:
+    -
+      date:
+        start: 2018-05-12 6:30
+        end: 2018-05-12 8:30
+      id:
+
+-
+  title: Leather Ball Jar Wrap
+  active: false
+  description:
+      In this hands on workshop by Purpose, you will learn to make a leather Ball Jar wrap.
+      With your precut leather pieces, you will learn to edge dye, wax, burnish edges, chisel, and hand stitch.
+  images:
+    - ball-jar-class.jpg
+  price: 30
+  bookings:
+    -
+      date:
+        start: 2018-05-14 3:30
+        end: 2018-05-14 5:30
+      id:
+-
+  title: Bracelet Class
+  active: true
+  price: 40
+  images:
+    - bracelet-braided.jpg
+  description:
+    In this hands on workshop by Purpose, you will learn to make two different bracelets
+    to be worn together or give one as a gift. First, you will learn how to make a magic
+    braid using latigo leather. For the second bracelet, you will be given pre-dyed vegetable
+    tanned leather for you to personalize with metal stamps. Finally, you will be taught how to set your own snaps.
+  bookings:
+    -
+      date:
+        start: 2018-05-03 6:30
+        end: 2018-05-03 8:30
+      id: 2M6CRMP3ZYG56
+    -
+      date:
+        start: 2018-05-10 6:30
+        end: 2018-05-10 8:30
+      id: 8WQHPEABXERQA
+
+-
+  title: Dog Leash
+  active: true
+  price: 42
+  images:
+    - leash.jpg
+    - dog-braided.jpg
+  description:
+    Create a leash for your favorite canine. Using latigo leather and brass hardware.
+    You can personalize your leash with letter stamps during the class.
+  bookings:
+    -
+      date:
+        start: 2018-05-17 6:30
+        end: 2018-05-17 8:30
+      id: UQATJEZ8MN2K6
+    -
+      date:
+        start: 2018-05-24 6:30
+        end: 2018-05-24 8:30
+      id: W5UZ47B5BCLS6
+
+-
+  title: Happy Hour Drop in class.
+  active: true
+  price: 20
+  images:
+    - bracelett-beach.jpg
+  description: |
+    In this hands-on class by Purpose, choose between making a leather key chain, leather bracelet or leather succulent planter.
+    For the bracelet or keychain, you will be given pre-dyed and pre-cut leather to work with.
+    Then, you will have the option to personalize your
+    leather with metal stamps. You may also choose to punch holes and embroider your own design.
+    If you choose to make a leather planter, you will learn to edge dye, wax and burnish edges. Next, you will punch holes and stitch.
+    Finally, you will choose a succulent and plant it in a jar which fits nicely into your leather planter.
+
+    May 11th drop in class in time for Mother's Day! Both Drop in classes, no prior registration required.
+
+  bookings:
+    -
+      date:
+        start: 2018-05-11 3:00
+        end: 2018-05-11 6:00
+    -
+      date:
+        start: 2018-05-25 3:00
+        end: 2018-05-25 6:00
+
+-
+  title: Mother's Day Succulent Planter Class
+  price: 30
+  active: true
+  description:
+    In this hands-on workshop, presented by Purpose, you will learn to make a leather planter.
+    You will edge dye, wax and burnish edges. Next, you will punch holes and stitch.
+    Finally, you will choose a succulent and plant it in a jar which fits nicely into your leather planter.
+  images:
+    - leather_sedum_planter.jpg
+  bookings:
+    -
+      date:
+        start: 2018-05-12 4:00
+        end: 2018-05-12 5:30
+      id: 5KJWTY3JZMUTW
+
+-
+  title: Minimalist Leather Wallet
+  price: 48
+  active: true
+  description:
+    In this hands-on workshop, presented by Purpose, you will learn to make a minimalist wallet.
+    You will edge dye, wax, and burnish edges. Next, you will chisel holes and learn to do the saddle stitch.
+    Finally, you may choose to personalize your initials onto the wallet with metal stamps.
+  images:
+    - leather-wallet-preview.jpg
+  bookings:
+    -
+      date:
+        start: 2018-05-20 11:00
+        end: 2018-05-20 1:00
+      id: BG8MVA8ZLUDM8
+
+
