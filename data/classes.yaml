@@ -1,7 +1,7 @@
 
 -
   title: Woodblock Carving
-  active: false
+  active: true
   description:
     In this hands on workshop by Purpose, you will learn how to carve a woodblock,
     deboss leather in a book press, and turn your creation into a piece of wall art.
@@ -15,9 +15,9 @@
   bookings:
     -
       date:
-        start: 2018-05-12 6:30
-        end: 2018-05-12 8:30
-      id:
+        start: 2018-06-21 6:30
+        end: 2018-05-21 8:30
+      id: M6N8UHBHLVWJS
 
 -
   title: Leather Ball Jar Wrap
@@ -48,13 +48,13 @@
   bookings:
     -
       date:
-        start: 2018-05-03 6:30
-        end: 2018-05-03 8:30
+        start: 2018-06-01 4:00
+        end: 2018-06-01 6:00
       id: 2M6CRMP3ZYG56
     -
       date:
-        start: 2018-05-10 6:30
-        end: 2018-05-10 8:30
+        start: 2018-06-08 4:00
+        end: 2018-06-08 6:00
       id: 8WQHPEABXERQA
 
 -
@@ -70,18 +70,29 @@
   bookings:
     -
       date:
-        start: 2018-05-17 6:30
-        end: 2018-05-17 8:30
-      id: UQATJEZ8MN2K6
-    -
-      date:
-        start: 2018-05-24 6:30
-        end: 2018-05-24 8:30
+        start: 2018-06-02 10:30
+        end: 2018-06-02 12:30
       id: W5UZ47B5BCLS6
 
 -
-  title: Happy Hour Drop in class.
+  title: Drop in Bracelet or Keychain workshop
   active: true
+  price: 20
+  images:
+    - drop-in-summer.jpg
+    - keychains.jpg
+  description:
+    Milieu Event, Schools out for Summer! Drop in Leather Workshop, Choose between various bracelet or keychain designs. All ages welcome. Lemonade stand, s'mores, music and more!
+
+  bookings:
+    -
+      date:
+        start: 2018-06-09 4:00
+        end: 2018-06-09 7:00
+
+-
+  title: Happy Hour Drop in class.
+  active: false
   price: 20
   images:
     - bracelett-beach.jpg
@@ -108,7 +119,7 @@
 -
   title: Mother's Day Succulent Planter Class
   price: 30
-  active: true
+  active: false
   description:
     In this hands-on workshop, presented by Purpose, you will learn to make a leather planter.
     You will edge dye, wax and burnish edges. Next, you will punch holes and stitch.
@@ -135,8 +146,33 @@
   bookings:
     -
       date:
-        start: 2018-05-20 11:00
-        end: 2018-05-20 1:00
+        start: 2018-06-16 10:30
+        end: 2018-06-16 12:30
       id: BG8MVA8ZLUDM8
 
 
+-
+  title: Kids DIY Leather Workshop
+  price: 22
+  active: true
+  description:
+    Drop your kids off in the leather studio where they can learn how to make leather bracelets, keychains, and other DIY projects.
+  images:
+    - kids-class.jpg
+    - kids-class-2.jpg
+  bookings:
+    -
+      date:
+        start: 2018-06-13 10:30
+        end: 2018-06-13 11:45
+      id: 5TRXS2BM9LPQN
+    -
+      date:
+        start: 2018-06-20 10:30
+        end: 2018-06-20 11:45
+      id: EJ359P7GSKU8G
+    -
+      date:
+        start: 2018-06-27 10:30
+        end: 2018-06-27 11:45
+      id: LJ5JEKNTKZPPS
