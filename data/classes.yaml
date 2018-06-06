@@ -80,7 +80,7 @@
   price: 20
   images:
     - drop-in-summer.jpg
-    - keychains.jpg
+    # - keychains.jpg
   description:
     Milieu Event, Schools out for Summer! Drop in Leather Workshop, Choose between various bracelet or keychain designs. All ages welcome. Lemonade stand, s'mores, music and more!
 
