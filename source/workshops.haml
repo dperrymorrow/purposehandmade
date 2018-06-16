@@ -10,7 +10,7 @@ title: Leather Workshops
   8012 13th Ave Portland, OR
 
 .row
-  - data.classes.sort{|x,y| x.bookings.first.date.start <=> y.bookings.first.date.start}.select{ |item| item.active }.each_slice(2) do |slice|
+  - data.classes.select{ |item| item.active }.sort{|x,y| x.bookings.first.date.start <=> y.bookings.first.date.start}.each_slice(2) do |slice|
     .row
       - slice.each do |offer|
         .col-md-6.col-xs-12.work-shop
