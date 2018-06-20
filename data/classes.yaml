@@ -1,7 +1,7 @@
 
 -
   title: Woodblock Carving
-  active: true
+  active: false
   description:
     In this hands on workshop by Purpose, you will learn how to carve a woodblock,
     deboss leather in a book press, and turn your creation into a piece of wall art.
@@ -16,7 +16,7 @@
     -
       date:
         start: 2018-06-21 6:30
-        end: 2018-05-21 8:30
+        end: 2018-06-21 8:30
       id: M6N8UHBHLVWJS
 
 -
