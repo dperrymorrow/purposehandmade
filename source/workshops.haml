@@ -19,7 +19,8 @@ title: Leather Workshops
 
           %h4
             = offer.title
-            %strong= "$#{offer.price}"
+            - if offer.price
+              %strong= "$#{offer.price}"
           %p= offer.description
 
           - offer.bookings.each do |booking|

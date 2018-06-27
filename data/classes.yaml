@@ -44,18 +44,14 @@
     In this hands on workshop by Purpose, you will learn to make two different bracelets
     to be worn together or give one as a gift. First, you will learn how to make a magic
     braid using latigo leather. For the second bracelet, you will be given pre-dyed vegetable
-    tanned leather for you to personalize with metal stamps. Finally, you will be taught how to set your own snaps.
+    tanned leather for you to personalize with metal stamps. Finally,
+    you will be taught how to set your own snaps.
   bookings:
     -
       date:
-        start: 2018-06-01 1:30
-        end: 2018-06-01 3:30
+        start: 2018-07-07 10:30
+        end: 2018-07-07 12:30
       id: 2M6CRMP3ZYG56
-    -
-      date:
-        start: 2018-06-08 1:30
-        end: 2018-06-08 3:30
-      id: 8WQHPEABXERQA
 
 -
   title: Dog Leash
@@ -70,13 +66,13 @@
   bookings:
     -
       date:
-        start: 2018-06-02 10:30
-        end: 2018-06-02 12:30
+        start: 2018-07-14 10:30
+        end: 2018-07-14 12:30
       id: W5UZ47B5BCLS6
 
 -
   title: Drop in Bracelet or Keychain workshop
-  active: true
+  active: false
   price: 20
   images:
     - drop-in-summer.jpg
@@ -93,24 +89,26 @@
 -
   title: Happy Hour Drop in class.
   active: true
-  price: 20
+  price: null
   images:
     - bracelett-beach.jpg
+    - tools.jpg
+    - leather_sedum_planter.jpg
   description: |
-    In this hands-on class by Purpose, choose between making a leather key chain, leather bracelet or leather succulent planter.
-    For the bracelet or keychain, you will be given pre-dyed and pre-cut leather to work with.
-    Then, you will have the option to personalize your
-    leather with metal stamps.
+    Bring a friend and start the weekend off with a little DIY.
+    You choose your project, and I will be there to walk you through all the steps.
+    You could make a leather succulent planter, or pick from a variety of bracelet and keychain designs.
+    Prices range from $20 - $40
 
   bookings:
     -
       date:
-        start: 2018-06-01 3:00
-        end: 2018-06-01 6:00
+        start: 2018-07-06 3:00
+        end: 2018-07-06 6:00
     -
       date:
-        start: 2018-06-08 3:00
-        end: 2018-06-08 6:00
+        start: 2018-07-13 3:00
+        end: 2018-07-13 6:00
 
 
 -
@@ -147,29 +145,48 @@
         end: 2018-06-16 12:30
       id: BG8MVA8ZLUDM8
 
+-
+  title: Leather Card Holder
+  price: 48
+  active: true
+  description:
+    In this hands-on workshop, presented by Purpose, you will learn to make a card holder.
+    You will use vegetable tanned leather and have the option to personalize your initials onto the leather with metal stamps.
+    Next, you will learn to gouge, edge, and chisel holes to complete the saddle stitch.
+    Finally, you will wax and burnish the edges of your card holder.
+  images:
+    - card-holder.jpg
+  bookings:
+    -
+      date:
+        start: 2018-07-28 10:30
+        end: 2018-07-28 12:30
+      id: ENJJ3XJ9RTAQC
+
 
 -
   title: Kids DIY Leather Workshop
   price: 22
   active: true
   description:
-    Drop your kids off in the leather studio where they can learn how to make leather bracelets, keychains, and other DIY projects. K-5 June 13th, 20th. 6-8th grade June 27th.
+    Drop your kids off in the leather studio where they can learn how to make leather bracelets,
+    keychains, and other DIY projects. K-8th grade.
   images:
     - kids-class.jpg
     - kids-class-2.jpg
   bookings:
     -
       date:
-        start: 2018-06-13 10:30
-        end: 2018-06-13 11:45
+        start: 2018-07-02 10:30
+        end: 2018-07-02 11:45
       id: 5TRXS2BM9LPQN
     -
       date:
-        start: 2018-06-20 10:30
-        end: 2018-06-20 11:45
+        start: 2018-07-09 10:30
+        end: 2018-07-09 11:45
       id: EJ359P7GSKU8G
     -
       date:
-        start: 2018-06-27 10:30
-        end: 2018-06-27 11:45
+        start: 2018-07-16 10:30
+        end: 2018-07-16 11:45
       id: LJ5JEKNTKZPPS
