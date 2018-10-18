@@ -49,13 +49,18 @@
   bookings:
     -
       date:
-        start: 2018-07-07 10:30
-        end: 2018-07-07 12:30
+        start: 2018-11-09 4:00
+        end: 2018-11-09 6:00
       id: 2M6CRMP3ZYG56
+    -
+      date:
+        start: 2018-11-24 2:00
+        end: 2018-11-24 4:00
+      id: 8WQHPEABXERQA
 
 -
   title: Dog Leash
-  active: true
+  active: false
   price: 42
   images:
     - leash.jpg
@@ -87,29 +92,20 @@
         end: 2018-06-09 7:00
 
 -
-  title: Happy Hour Drop in class.
+  title: Leather Succulent Planter Class.
   active: true
-  price: null
+  price: 30
   images:
-    - bracelett-beach.jpg
-    - tools.jpg
     - leather_sedum_planter.jpg
   description: |
-    Bring a friend and start the weekend off with a little DIY.
-    You choose your project, and I will be there to walk you through all the steps.
-    You could make a leather succulent planter, or pick from a variety of bracelet and keychain designs.
-    Prices range from $20 - $40
+    In this hands-in workshop presented by Purpose, you will learn to make a leather planter. You will edge dye, wax edges, punch holes, and sew the leather. Then you will choose and plant a succulent.
 
   bookings:
     -
       date:
-        start: 2018-07-06 3:00
-        end: 2018-07-06 6:00
-    -
-      date:
-        start: 2018-07-13 3:00
-        end: 2018-07-13 6:00
-
+        start: 2018-11-01 6:15
+        end: 2018-11-01 7:45
+      id: W6KEX8JNSV6CU
 
 -
   title: Mother's Day Succulent Planter Class
@@ -147,7 +143,7 @@
 
 -
   title: Leather Card Holder
-  price: 48
+  price: 45
   active: true
   description:
     In this hands-on workshop, presented by Purpose, you will learn to make a card holder.
@@ -159,15 +155,15 @@
   bookings:
     -
       date:
-        start: 2018-07-19 6:30
-        end: 2018-07-19 8:30
+        start: 2018-11-15 6:15
+        end: 2018-11-15 8:15
       id: ENJJ3XJ9RTAQC
 
 
 -
   title: Kids DIY Leather Workshop
   price: 22
-  active: true
+  active: false
   description:
     Drop your kids off in the leather studio where they can learn how to make leather bracelets,
     keychains, and other DIY projects. K-8th grade.
@@ -190,3 +186,18 @@
         start: 2018-07-16 10:30
         end: 2018-07-16 11:45
       id: LJ5JEKNTKZPPS
+
+-
+  title: Hipster Keychain
+  price: 30
+  active: true
+  description:
+    In this hands on class by Purpose, you will learn to make a keychain. With your precut leather, you will learn to dye your vegetable tanned leather. Metal stamps will be available if you choose to personalize it. You will learn to rivet, and wax and burnish edges.
+  images:
+    - hipster_keychain.jpg
+  bookings:
+    -
+      date:
+        start: 2018-12-01 1:00
+        end: 2018-12-01 2:30
+      id: UKC695DFYB4K6

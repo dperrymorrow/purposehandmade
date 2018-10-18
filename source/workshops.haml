@@ -4,10 +4,15 @@ title: Leather Workshops
 
 %h1 Workshops
 %p.lead
-  Leather work classes offered by Purpose. All classes are held at the Purpose studio located in
+  Leather workshops offered by Purpose. All classes are held at the Purpose studio located in
   %a{href: "https://www.google.com/maps/place/8012-8018+SE+13th+Ave,+Portland,+OR+97202/@45.4654353,-122.6545827,17z/data=!4m5!3m4!1s0x54950adb15efb42b:0x84ab3c28eea3f573!8m2!3d45.4654278!4d-122.6524638", target: "_blank"} Milieu
   %em (the old Homestead Supply Store)
   8012 13th Ave Portland, OR
+
+%p.lead
+  Inquire about private group workshops with three or more guests for adults or kids. 
+  %a{href: 'mailto:angemorrow@gmail.com'}
+    angemorrow@gmail.com
 
 .row
   - data.classes.select{ |item| item.active }.sort{|x,y| x.bookings.first.date.start <=> y.bookings.first.date.start}.each_slice(2) do |slice|
@@ -34,15 +39,3 @@ title: Leather Workshops
                 .col-xs-4
                   - if booking.id
                     = partial(:"partials/_paypal-btn", :locals => {:id => booking.id})
-
-
-
-
-%hr
-
-.row
-  .col-xs-12
-    Inquire about private group workshops. If you have any questions or need any additional info, please email.
-
-    %a{href: 'mailto:angemorrow@gmail.com'}
-      angemorrow@gmail.com
