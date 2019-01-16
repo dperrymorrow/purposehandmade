@@ -36,7 +36,7 @@
       id:
 -
   title: Bracelet Class
-  active: true
+  active: false
   price: 40
   images:
     - bracelet-braided.jpg
@@ -93,7 +93,7 @@
 
 -
   title: Leather Succulent Planter Class.
-  active: true
+  active: false
   price: 30
   images:
     - leather_sedum_planter.jpg
@@ -144,7 +144,7 @@
 -
   title: Leather Card Holder
   price: 45
-  active: true
+  active: false
   description:
     In this hands-on workshop, presented by Purpose, you will learn to make a card holder.
     You will use vegetable tanned leather and have the option to personalize your initials onto the leather with metal stamps.
@@ -190,7 +190,7 @@
 -
   title: Hipster Keychain
   price: 30
-  active: true
+  active: false
   description:
     In this hands on class by Purpose, you will learn to make a keychain. With your precut leather, you will learn to dye your vegetable tanned leather. Metal stamps will be available if you choose to personalize it. You will learn to rivet, and wax and burnish edges.
   images:
@@ -201,3 +201,49 @@
         start: 2018-12-01 1:00
         end: 2018-12-01 2:30
       id: UKC695DFYB4K6
+
+-
+  title: Folded Leather Wallet
+  price: 60
+  active: true
+  description:
+    In this hands on class by Purpose, you will learn to make a folded wallet with two inside pockets. You will use precut vegetable tanned leather, and will have the option to personalize it with metal stamps. You will learn to chisel holes, hand sew a saddle stitch, and wax and burnish edges.
+  images:
+    - folded_wallet.jpg
+  bookings:
+    -
+      id: RQGWBMB23S3P4
+      date:
+        start: 2019-02-07 6:30pm
+        end:   2019-02-07 8:30pm
+    -
+      id: F723E5644CFB2
+      date:
+        start: 2019-02-09 10:30am
+        end:   2019-02-09 12:30pm
+
+-
+  title: Mix and Match Workshop
+  price: 40
+  active: true
+  description:
+    In this hands on class by Purpose, you can choose between keychains and bracelets. You may choose to learn how to make a magic braided bracelet using latigo leather. Or, you can learn to dye leather and personalize a bracelet or keychain using metal stamps or embroidery. Mix and match ideas to complete 2 projects during class.
+  images:
+    - keychain.jpg
+    - bracelets.jpg
+  bookings:
+    -
+      id: Q9PX47Q92ZAC8
+      date:
+        start: 2019-02-01 10:30am
+        end:   2019-02-01 12:30pm
+    -
+      id: TFZUBEUK8LSWA
+      date:
+        start: 2019-02-08 10:30am
+        end:   2019-02-08 12:30pm
+    -
+      id: BAJKHQQL7HTHW
+      date:
+        start: 2019-02-15 10:30am
+        end:   2019-02-15 12:30pm
